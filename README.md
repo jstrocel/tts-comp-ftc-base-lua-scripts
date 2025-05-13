@@ -7,6 +7,11 @@ This repo now contains the actual TTS JSON file. To produce the JSON file, run t
 
 Credit and thanks to Trashpanda, GenWilhelm, BaconCatBug, Phubar, Mothman_Zack, Zyllos and Kurcenkurce for their hard work developing/maintaining earlier versions of this mod, and elements contained within it!
 
+## Todo
+1. Write Instructions on how to develop this mod via github and add to the readme
+2. Add Increment and Decrement wounds to right-click context menu
+3. Allow Return to dice Roller for Player 2 dice
+
 ## Update History:
 
 ### v2.63
